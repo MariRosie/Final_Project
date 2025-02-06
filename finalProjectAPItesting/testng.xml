@@ -1,0 +1,18 @@
+<suite name="Suite1" verbose="1">
+    <test name="Scenario1">
+        <classes>
+            <class name="OrderTests"/>
+        </classes>
+    </test>
+    <test name="Scenario2">
+        <classes>
+            <class name="UserPageTests"/>
+        </classes>
+    </test>
+    <test name="NegativeTestCases">
+        <classes>
+            <class name="NegativeTestCases"/>
+        </classes>
+    </test>
+
+</suite>
